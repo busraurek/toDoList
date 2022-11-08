@@ -1,0 +1,1 @@
+Bu ödev patika javascript dersi için yapıldı
